@@ -1,2 +1,2 @@
-# Elikem-Folder
-My personal folder
+# My Python Codes
+Python codes from ny assignments, personal and group projects
